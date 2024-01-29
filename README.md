@@ -1,5 +1,7 @@
 # Plugin documentation
 
+> This is a forked version of Strapi's documentation, based on this [Pr](https://github.com/strapi/strapi/pull/18142). This was necessary because the original library did not allow adding custom endpoints to the documentation. The PR introduced this feature, which was planned to be included in the next release of Strapi's documentation, not yet available during our project development.
+
 This plugin automates your API documentation creation. It basically generates a swagger file. It follows the [Open API specification version 3.0.1](https://swagger.io/specification/).
 
 ## Usage
